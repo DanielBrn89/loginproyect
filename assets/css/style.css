@@ -1,0 +1,21 @@
+.product-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+}
+
+.product-card {
+    border: 1px solid #ddd;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+.qr-thumbnail {
+    max-width: 100px;
+    height: auto;
+}
+
+.scanner-container {
+    max-width: 600px;
+    margin: 0 auto;
+}
