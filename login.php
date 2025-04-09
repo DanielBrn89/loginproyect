@@ -121,7 +121,7 @@ if (isset($_SERVER["REQUEST_METHOD"]) && $_SERVER["REQUEST_METHOD"] == "POST") {
             <button type="submit">Iniciar Sesion</button>
         </form>
         <div class="link">
-            <p>¿No tienes cuenta? <a href="register.php">REGISTRO</a></p>
+            <p>¿No tienes cuenta? <a href="register.php">REGISTRARSE</a></p>
         </div>
     </div>
 </body>
